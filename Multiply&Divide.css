@@ -1,0 +1,35 @@
+#border{
+  width: 500px;
+  height: 300px;
+  border: 2px solid steelblue;
+  margin: auto;
+}
+label{
+  font-size: 20px;
+  font-family: verdana;
+  padding: 10px;
+}
+#inputs{
+  text-align: center;
+  padding: 40px;
+}
+input{
+  width: 200px;
+  height: 20px;
+}
+#button{
+  text-align: center;
+  padding-left: 100px;
+}
+button{
+  width: 80px;
+  height: 40px;
+  font-family: verdana;
+  background-color: steelblue;
+  box-shadow: 2px 5px lightgray;
+}
+#result{
+ font-family: verdana;
+ font-size: 20px;
+  text-align: center;
+}
